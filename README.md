@@ -1,0 +1,1 @@
+下载解压文件deepseek_chat.7z后，附上api即用
