@@ -1,1 +1,2 @@
 下载解压文件deepseek_chat.7z后，附上api即用
+After downloading and extracting the file deepseek_chat.7z, attach the API and it is ready to use.
